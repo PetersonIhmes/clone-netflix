@@ -6,7 +6,7 @@
     color: white;
 }
 #container{
-    background: url("/img/background.jpeg");
+    background: url("background.jpeg");
   background-size: cover;
 }
 #logo-netflix{
